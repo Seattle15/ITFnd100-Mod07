@@ -53,16 +53,20 @@ Or indent code with four spaces
         
             
   ______________________________________________________
-**Numbered list**
+**Numbered list and nested list**
 
  
 1) list item one
+2) list item two
+   * nested one
+     * nested two
+4) list item three
+5) list item four
+6) list item five
+   - nested one
+     - nested two
+7) list item six
 
-    a) sublist a
-    
-    b) sublist b
-3) list item two
-4) list item 3
 
 ___________________________________________________  
 **Unordered list**
