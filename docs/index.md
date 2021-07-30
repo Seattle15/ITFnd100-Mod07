@@ -107,8 +107,7 @@ _____________________________________________________
 
 
 
-
-![Picture7](https://user-images.githubusercontent.com/12945181/127596927-8405c08c-c3e3-4e94-8f81-c0fce35d0d52.png)
+![Picture7 resized](https://user-images.githubusercontent.com/12945181/127597988-0375e87d-fdcd-4335-ae39-5ae65f86ce2b.png)
 
 
 _______________________________________________________
