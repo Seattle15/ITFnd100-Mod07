@@ -111,33 +111,16 @@ _____________________________________________________
 ![Picture7](https://user-images.githubusercontent.com/12945181/127596927-8405c08c-c3e3-4e94-8f81-c0fce35d0d52.png)
 
 
+_______________________________________________________
+**Paragraph**
 
+The with keyword invokes a context manager for the file and automatically closes the file at the end of the block, i.e., there is no need to use obj_file.close(). It replaces older ways of file access. 
 
-Images - inline style
-Images – reference style
+The general syntax is
+```
+with open(‘file_name.txt’, ‘r’) as obj_file:
+    file_contents = obj_file.read()
+print(file_contents)
 
-Code & syntax highlighting
+```
 
-Tables
-Blockquotes
-Horizontal line across page
-Line breaks
-
-	#, ##, ###, …
-*italics*     or      _italics_
-**bold**    or    __bold__
-~~ strikethrough~~
-use numbers
-use *, + or –
-use two trailing spaces
-[This is a link to website_name](URL)    or
-URL and <URL> will automatically get turned into links
-![alt text](URL)
-![alt text][logo]
-[logo]: URL
-fence blocks of code with ‘’’ or indent with four spaces
-inline code written as ‘inline code here’
-constructed using |,-, and :
-use >
-use three or more sequential ---, ***, or underscores
-hit enter once or twice
