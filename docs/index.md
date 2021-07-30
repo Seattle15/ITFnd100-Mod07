@@ -75,7 +75,12 @@ ___________________________________________________
 - unordered list
 + unordered list
 
-  
+___________________________________________________
+**Task Lists**
+
+- [x] Task one
+- [ ] Task two
+- [ ] Task three
 ___________________________________________________________
 **Links**
 
@@ -97,6 +102,10 @@ ______________________________________________________________
 * use colons to the left or right to indicate right and left line adjustment respectively
 * use two colons on either side of 3 or more dashes to indicated centered text
 _____________________________________________________
+**Add images**
+
+
+
 
 
 Images - inline style
