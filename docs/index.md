@@ -102,7 +102,9 @@ ______________________________________________________________
 
 * use colons to the left or right to indicate right and left line adjustment respectively
 * use two colons on either side of 3 or more dashes to indicated centered text
-____________________________________________________________________________
+
+-----------------------------------------------------------------------------------
+
 **Add images**
 
 
