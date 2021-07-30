@@ -125,6 +125,9 @@ with open(‘file_name.txt’, ‘r’) as obj_file:
     file_contents = obj_file.read()
 print(file_contents)
 
-```
+```   
+
+________________________________________________________
+
 
 My webpage URL: https://seattle15.github.io/ITFnd100-Mod07/
