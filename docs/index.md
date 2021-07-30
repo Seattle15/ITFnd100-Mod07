@@ -107,6 +107,10 @@ _____________________________________________________
 
 
 
+![Picture7](https://user-images.githubusercontent.com/12945181/127596927-8405c08c-c3e3-4e94-8f81-c0fce35d0d52.png)
+
+
+
 
 Images - inline style
 Images – reference style
